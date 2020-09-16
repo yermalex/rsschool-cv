@@ -14,3 +14,10 @@ The frontend attracts me by the fact that it constantly needs to develop and sol
 ![html](https://img.shields.io/badge/-html-090909?style=for-the-badge&logo=HTML-5&logoColor-ffffff) ![scss/less](https://img.shields.io/badge/-scss/less-090909?style=for-the-badge&logo=sass&logoColor-ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor-ffffff) ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript&logoColor-ffffff)
 ![Angular](https://img.shields.io/badge/-Angular-090909?style=for-the-badge&logo=Angular&logoColor-ffffff) ![NgRx](https://img.shields.io/badge/-NgRx-090909?style=for-the-badge&logo=NgRx&logoColor-ffffff) ![RxJs](https://img.shields.io/badge/-RxJs-090909?style=for-the-badge&logo=RxJs&logoColor-ffffff)
+## Experience
+* Internship in Netcracker
+* Work in [melissa.team](https://melissa.team/)
+## Education
+* Lobachevsky State University of Nizhny Novgorod
+## English
+* Pre-intermediate
