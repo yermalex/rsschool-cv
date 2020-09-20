@@ -3,7 +3,7 @@
 ## Contacts
 * GitHub: [yermalex](https://github.com/yermalex)
 * TG: [@yermakov](https://t.me/yermakov)
-* VK: [Алексе Ермаков](https://vk.com/yermakov)
+* VK: [Алексей Ермаков](https://vk.com/yermakov)
 * Inst: [yermalex](https://www.instagram.com/yermalex)
 * E-mail: yermakov.alexx@gmail.com
 
